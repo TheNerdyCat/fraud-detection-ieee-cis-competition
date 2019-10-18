@@ -11,11 +11,11 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 
 For each TransactionID in the test set, you must predict a probability for the isFraud variable. The file should contain a header and have the following format:
 
-`TransactionID,isFraud`
-\n`3663549,0.5`
-\n`3663550,0.5`
-\n`3663551,0.5`
-\n`etc.`
+`TransactionID,isFraud`<br/>
+`3663549,0.5`<br/>
+`3663550,0.5`<br/>
+`3663551,0.5`<br/>
+`etc.`<br/>
 
 ## Requirements
 
